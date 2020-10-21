@@ -1,6 +1,6 @@
 # A machine learning approach for monitoring Brazilian optical water types using Sentinel 2-MSI
 <br>
-This project contains almost all necessary steps and database used in the study to be published. Notice that steps from 5 to 9 the database here in GitHub is not available due to the large file size of satellite images. For reproducing the entire study, you should download the appendix data available in the publication.
+This project contains almost all the necessary steps and database used in the study to be published. Notice that steps from 5 to 9 the database here in GitHub is not available due to the large file size of satellite images. For reproducing the entire study, you should download the appendix data available in the publication.
 
 
 # Summary
