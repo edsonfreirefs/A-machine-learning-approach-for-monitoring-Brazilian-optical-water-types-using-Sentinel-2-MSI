@@ -8,7 +8,7 @@ This project contains almost all the necessary steps and database used in the st
 <br>
 [02 SVM cross validation](https://github.com/edsonfreirefs/A-machine-learning-approach-for-monitoring-Brazilian-optical-water-types-using-Sentinel-2-MSI/blob/main/02_SVM%20cross%20validation.ipynb)
 <br>
-[03_Evaluation of algorithm noise sensitivity](https://github.com/edsonfreirefs/A-machine-learning-approach-for-monitoring-Brazilian-optical-water-types-using-Sentinel-2-MSI/blob/main/03_SVM%20noise%20sensitivity.ipynb)
+[03 Evaluation of algorithm noise sensitivity](https://github.com/edsonfreirefs/A-machine-learning-approach-for-monitoring-Brazilian-optical-water-types-using-Sentinel-2-MSI/blob/main/03_SVM%20noise%20sensitivity.ipynb)
 <br>
 [04 Train classification algorithm](https://github.com/edsonfreirefs/A-machine-learning-approach-for-monitoring-Brazilian-optical-water-types-using-Sentinel-2-MSI/blob/main/04_Train%20classification%20algorithm.ipynb)
 <br>
