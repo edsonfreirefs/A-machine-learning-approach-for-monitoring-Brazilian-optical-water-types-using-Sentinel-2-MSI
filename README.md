@@ -6,7 +6,7 @@ This project contains almost all the necessary steps and database used in the st
 # Summary
 [01_Plot OWTs](https://github.com/edsonfreirefs/A-machine-learning-approach-for-monitoring-Brazilian-optical-water-types-using-Sentinel-2-MSI/blob/main/01_Plot%20OWTs.ipynb)
 <br>
-[02_Train the classification algorithms](https://github.com/edsonfreirefs/A-machine-learning-approach-for-monitoring-Brazilian-optical-water-types-using-Sentinel-2-MSI/blob/main/02_Train%20the%20classification%20algorithms.ipynb)
+[02 SVM cross validation](https://github.com/edsonfreirefs/A-machine-learning-approach-for-monitoring-Brazilian-optical-water-types-using-Sentinel-2-MSI/blob/main/02_SVM%20cross%20validation.ipynb)
 <br>
 [03_Evaluation of algorithm noise sensitivity](https://github.com/edsonfreirefs/A-machine-learning-approach-for-monitoring-Brazilian-optical-water-types-using-Sentinel-2-MSI/blob/main/03_Evaluation%20of%20algorithm%20noise%20sensitivity.ipynb)
 <br>
