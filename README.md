@@ -4,20 +4,22 @@ This project contains almost all the necessary steps and database used in the st
 
 
 # Summary
-[01_Plot OWTs](https://github.com/edsonfreirefs/A-machine-learning-approach-for-monitoring-Brazilian-optical-water-types-using-Sentinel-2-MSI/blob/main/01_Plot%20OWTs.ipynb)
+[01 Plot OWTs](https://github.com/edsonfreirefs/A-machine-learning-approach-for-monitoring-Brazilian-optical-water-types-using-Sentinel-2-MSI/blob/main/01_Plot%20OWTs.ipynb)
 <br>
 [02 SVM cross validation](https://github.com/edsonfreirefs/A-machine-learning-approach-for-monitoring-Brazilian-optical-water-types-using-Sentinel-2-MSI/blob/main/02_SVM%20cross%20validation.ipynb)
 <br>
-[03_Evaluation of algorithm noise sensitivity](https://github.com/edsonfreirefs/A-machine-learning-approach-for-monitoring-Brazilian-optical-water-types-using-Sentinel-2-MSI/blob/main/03_Evaluation%20of%20algorithm%20noise%20sensitivity.ipynb)
+[03_Evaluation of algorithm noise sensitivity](https://github.com/edsonfreirefs/A-machine-learning-approach-for-monitoring-Brazilian-optical-water-types-using-Sentinel-2-MSI/blob/main/03_SVM%20noise%20sensitivity.ipynb)
 <br>
-[04_Define probability thresholds of novelty detection](https://github.com/edsonfreirefs/A-machine-learning-approach-for-monitoring-Brazilian-optical-water-types-using-Sentinel-2-MSI/blob/main/04_Define%20probability%20thresholds%20of%20novelty%20detection.ipynb)
+[04 Train classification algorithm](https://github.com/edsonfreirefs/A-machine-learning-approach-for-monitoring-Brazilian-optical-water-types-using-Sentinel-2-MSI/blob/main/04_Train%20classification%20algorithm.ipynb)
 <br>
-[05_Satellite and in situ match up of Rrs](https://github.com/edsonfreirefs/A-machine-learning-approach-for-monitoring-Brazilian-optical-water-types-using-Sentinel-2-MSI/blob/main/05_Satellite%20and%20in%20situ%20match%20up%20of%20Rrs.ipynb)
+[05 Define probability thresholds of novelty detection](https://github.com/edsonfreirefs/A-machine-learning-approach-for-monitoring-Brazilian-optical-water-types-using-Sentinel-2-MSI/blob/main/05_Define%20probability%20thresholds%20of%20novelty%20detection.ipynb)
 <br>
-[06_Image Classification](https://github.com/edsonfreirefs/A-machine-learning-approach-for-monitoring-Brazilian-optical-water-types-using-Sentinel-2-MSI/blob/main/06_Image%20Classification.ipynb)
+[06 Satellite and in situ match up of Rrs](https://github.com/edsonfreirefs/A-machine-learning-approach-for-monitoring-Brazilian-optical-water-types-using-Sentinel-2-MSI/blob/main/06_Satellite%20and%20in%20situ%20match%20up%20of%20Rrs.ipynb)
 <br>
-[07_ECP novelty evaluation](https://github.com/edsonfreirefs/A-machine-learning-approach-for-monitoring-Brazilian-optical-water-types-using-Sentinel-2-MSI/blob/main/07_ECP%20novelty%20evaluation.ipynb)
+[07 Image Classification](https://github.com/edsonfreirefs/A-machine-learning-approach-for-monitoring-Brazilian-optical-water-types-using-Sentinel-2-MSI/blob/main/07_Image%20Classification.ipynb)
 <br>
-[08_Funil owt frequency](https://github.com/edsonfreirefs/A-machine-learning-approach-for-monitoring-Brazilian-optical-water-types-using-Sentinel-2-MSI/blob/main/08_Funil%20owt%20frequency.ipynb)
+[08 ECP novelty evaluation](https://github.com/edsonfreirefs/A-machine-learning-approach-for-monitoring-Brazilian-optical-water-types-using-Sentinel-2-MSI/blob/main/08_ECP%20novelty%20evaluation.ipynb)
 <br>
-[09_Curuai owt frequency](https://github.com/edsonfreirefs/A-machine-learning-approach-for-monitoring-Brazilian-optical-water-types-using-Sentinel-2-MSI/blob/main/09_Curuai%20owt%20frequency.ipynb)
+[09 Funil owt frequency](https://github.com/edsonfreirefs/A-machine-learning-approach-for-monitoring-Brazilian-optical-water-types-using-Sentinel-2-MSI/blob/main/09_Funil%20owt%20frequency.ipynb)
+<br>
+[10 Curuai owt frequency](https://github.com/edsonfreirefs/A-machine-learning-approach-for-monitoring-Brazilian-optical-water-types-using-Sentinel-2-MSI/blob/main/10_Curuai%20owt%20frequency.ipynb)
